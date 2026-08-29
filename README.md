@@ -34,7 +34,7 @@
 
 GitHub Pagesで公開しています。
 
-→ **[NYC × Montreal Trip 2026](https://YOUR-USERNAME.github.io/ny-trip-2026/)**
+→ **[NYC × Montreal Trip 2026](https://kazoo0908.github.io/ny-trip-2026/)**
 
 ## 📁 Files
 
